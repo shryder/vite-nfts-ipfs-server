@@ -1,0 +1,17 @@
+{
+  "name": "vite-ipfs",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/Shryder/vite-ipfs",
+  "author": "Shryder",
+  "license": "MIT",
+  "dependencies": {
+    "@vite/vitejs": "^2.3.14",
+    "@vite/vitejs-ws": "^2.3.14",
+    "bignumber.js": "^9.0.1",
+    "dotenv": "^10.0.0",
+    "ipfs-http-client": "^53.0.1",
+    "is-ipfs": "^6.0.2",
+    "redis": "^4.0.0-rc.2"
+  }
+}
